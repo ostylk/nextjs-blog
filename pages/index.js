@@ -37,6 +37,10 @@ export default function Home() {
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
+          <p>
+            Ich brauche einen Ford Fokus, um da ganz fett einen reinzusemmeln. Smiley Face, Zwinkersmiley.
+          </p>
+
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
